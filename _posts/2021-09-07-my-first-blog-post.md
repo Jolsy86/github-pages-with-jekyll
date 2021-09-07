@@ -1,5 +1,6 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2021-09-D6
 ---
-
+HI
+---
